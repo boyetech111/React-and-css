@@ -1,0 +1,12 @@
+button{
+    width: 158px;
+    height: 59px;
+    background: #55A5DB;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-family: 'Sora';
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+}
